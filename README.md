@@ -18,11 +18,11 @@
 ### PROJECT: WEATHER FORECAST APP
 
 ### Objective
-•This project aims to develop a functional weather forecast application using fundamental web development technologies:
+**•This project aims to develop a functional weather forecast application using fundamental web development technologies:**
 
-•Provide User-Friendly Weather Information: The core objective is to present current and future weather conditions in a clear and accessible way for users.
+**•Provide User-Friendly Weather Information: The core objective is to present current and future weather conditions in a clear and accessible way for users.**
 
-•Learn Web Development Fundamentals: By building this app, you'll gain practical experience with:
+**•Learn Web Development Fundamentals: By building this app, you'll gain practical experience with:**
 
 
 
@@ -49,6 +49,16 @@
 **•JavaScript: Interacting with weather API data and displaying it dynamically.**
 
 **•Introduce Weather APIs: The project familiarizes you with how to integrate with weather APIs to retrieve real-time forecast data.**
+
+### Dependencies:
+
+**•This application relies on a weather API to retrieve forecast data. You will need to:**
+
+**•Choose a weather API provider (e.g., Open Weather Map)**
+
+**•Obtain an API key from the chosen provider**
+
+**•Update the JavaScript code to integrate your API key and handle data retrieval**
 
 
 

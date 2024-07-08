@@ -27,38 +27,38 @@
 
 
 ### Key Activities
-**•Displays current weather conditions for a specified location.**
+**• Displays current weather conditions for a specified location.**
 
-**•Provides forecasts for upcoming days (customizable in code).**
+**• Provides forecasts for upcoming days (customizable in code).**
 
-**•May include additional details like:**
+**• May include additional details like:**
 
-**•Feels-like temperature**
+**• Feels-like temperature**
 
-**•Wind speed and direction**
+**• Wind speed and direction**
 
 **•Humidity**
 
 
 ### Technologies Used:
 
-**•HTML: Structure and content organization of the web page.**
+**• HTML: Structure and content organization of the web page.**
 
-**•CSS: Styling the visual elements of the app for an appealing interface.**
+**• CSS: Styling the visual elements of the app for an appealing interface.**
 
-**•JavaScript: Interacting with weather API data and displaying it dynamically.**
+**• JavaScript: Interacting with weather API data and displaying it dynamically.**
 
-**•Introduce Weather APIs: The project familiarizes you with how to integrate with weather APIs to retrieve real-time forecast data.**
+**• Introduce Weather APIs: The project familiarizes you with how to integrate with weather APIs to retrieve real-time forecast data.**
 
 ### Dependencies:
 
-**•This application relies on a weather API to retrieve forecast data. You will need to:**
+**• This application relies on a weather API to retrieve forecast data. You will need to:**
 
-**•Choose a weather API provider (e.g., Open Weather Map)**
+**• Choose a weather API provider (e.g., Open Weather Map)**
 
-**•Obtain an API key from the chosen provider**
+**• Obtain an API key from the chosen provider**
 
-**•Update the JavaScript code to integrate your API key and handle data retrieval**
+**• Update the JavaScript code to integrate your API key and handle data retrieval**
 
 
 

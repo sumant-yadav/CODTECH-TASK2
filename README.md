@@ -6,7 +6,7 @@
 
 **Domain:** WEB DEVELOPMENT
 
-**Duration:** 29TH JUNE TO 12 JULY
+**Duration:** 29th JUNE TO 12th JULY
 
 **MENTOR:** Neela Santhosh Kumar
 

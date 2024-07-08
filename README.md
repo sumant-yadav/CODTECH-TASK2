@@ -18,11 +18,11 @@
 ### PROJECT: WEATHER FORECAST APP
 
 ### Objective
-**•This project aims to develop a functional weather forecast application using fundamental web development technologies:**
+**• This project aims to develop a functional weather forecast application using fundamental web development technologies:**
 
-**•Provide User-Friendly Weather Information: The core objective is to present current and future weather conditions in a clear and accessible way for users.**
+**• Provide User-Friendly Weather Information: The core objective is to present current and future weather conditions in a clear and accessible way for users.**
 
-**•Learn Web Development Fundamentals: By building this app, you'll gain practical experience with:**
+**• Learn Web Development Fundamentals: By building this app, you'll gain practical experience with:**
 
 
 

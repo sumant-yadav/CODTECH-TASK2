@@ -12,7 +12,7 @@
 
 ## OVERVIEW OF THE PROJECT
 
-
+![Weather_app](https://github.com/sumant-yadav/CODTECH-TASK2/assets/170974994/2008f773-749d-49ed-8499-15da4c35a3da)
 
 
 ### PROJECT: WEATHER FORECAST APP
